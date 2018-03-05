@@ -1,6 +1,9 @@
 # couchdb-bulk
 Batches a stream of single documents into bulk docs jsons.
 
+[![Build
+Status](https://travis-ci.org/jo/couchdb-batch.svg?branch=master)](http://travis-ci.org/jo/couchdb-batch)
+
 ## Installation
 ```sh
 npm install -g couchdb-bulk
