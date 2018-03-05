@@ -1,5 +1,5 @@
 {
-  "name": "couchdb-bulk",
+  "name": "couchdb-batch",
   "version": "0.0.0-development",
   "description": "Collect json docs into batches",
   "main": "index.js",
